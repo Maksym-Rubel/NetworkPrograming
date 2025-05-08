@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08_HttpClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4a0db7edce412a14a15cdf67ba0a052c645fe24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb04d3acc61289b6db03e3b28716705ca767376")]
 [assembly: System.Reflection.AssemblyProductAttribute("08_HttpClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08_HttpClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,12 +33,10 @@ namespace _08_HttpClass
             InitializeComponent();
             model = new ViewModelDownload()
             {
-                //Source = @"https://sun-inside.me/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-17.20.42-682x1024.png",
-                //Destination = @"C:\Users\Maksym\Desktop\Test",
+                
                 Progress = 0
             };
-            //folderPath = model.Destination;
-            //srcTextBox.Text = model.Source;
+           
             this.DataContext = model;
 
         }
@@ -61,39 +59,7 @@ namespace _08_HttpClass
             }
         }
 
-        //private async void DowloadFileAsync(string text)
-        //{
-        //    WebClient client = new WebClient();
-
-
-        //    client.DownloadFileCompleted += Client_DownloadFileCompleted;
-
-        //    string fileName = Path.GetFileName(text);
-        //    DownloadProcessesInfo info = new DownloadProcessesInfo(fileName);
-        //    model.AddProcess(info);
-        //    client.DownloadProgressChanged += (s, e) =>
-        //    {
-        //        info.Percentage = e.ProgressPercentage;
-        //    };
-        //    info.Client = client;
-        //    try
-        //    {
-        //        await client.DownloadFileTaskAsync(text, $@"{folderPath}\{fileName}");
-        //        info.Percentage = 100;
-        //    }
-        //    catch (WebException ex)
-        //    {
-        //        if (ex.Status == WebExceptionStatus.RequestCanceled)
-        //        {
-        //            MessageBox.Show("Cancceled");
-        //        }
-        //        else
-        //        {
-        //            MessageBox.Show(ex.Message);
-        //        }
-        //    }
-
-        //}
+        
         private async void DowloadFileAsync(string text)
         {
             WebClient client = new WebClient();

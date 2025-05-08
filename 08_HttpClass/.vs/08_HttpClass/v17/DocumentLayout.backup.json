@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\08_httpclass\\08_httpclass\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|solutionrelative:08_httpclass\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\08_httpclass\\08_httpclass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|solutionrelative:08_httpclass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\08_httpclass\\08_httpclass\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D46A7FE5-E3B3-4AB3-8EA2-C0AF8CABD72C}|08_HttpClass\\08_HttpClass.csproj|solutionrelative:08_httpclass\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 546,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\MainWindow.xaml",
               "RelativeDocumentMoniker": "08_HttpClass\\MainWindow.xaml",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "08_HttpClass\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\MainWindow.xaml.cs",
               "RelativeToolTip": "08_HttpClass\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T16:47:38.767Z",
               "EditorCaption": ""
