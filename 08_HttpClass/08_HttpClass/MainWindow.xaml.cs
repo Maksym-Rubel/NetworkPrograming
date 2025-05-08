@@ -1,8 +1,10 @@
 ﻿using Microsoft.WindowsAPICodePack.Dialogs;
 using PropertyChanged;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 using System.IO;
 using System.Net;
+using System.Security.Policy;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -23,6 +25,7 @@ namespace _08_HttpClass
     public partial class MainWindow : Window
     {
         ViewModelDownload model;
+        
         string folderPath = "";
         public MainWindow()
         {
@@ -58,36 +61,79 @@ namespace _08_HttpClass
             }
         }
 
+        //private async void DowloadFileAsync(string text)
+        //{
+        //    WebClient client = new WebClient();
+
+
+        //    client.DownloadFileCompleted += Client_DownloadFileCompleted;
+
+        //    string fileName = Path.GetFileName(text);
+        //    DownloadProcessesInfo info = new DownloadProcessesInfo(fileName);
+        //    model.AddProcess(info);
+        //    client.DownloadProgressChanged += (s, e) =>
+        //    {
+        //        info.Percentage = e.ProgressPercentage;
+        //    };
+        //    info.Client = client;
+        //    try
+        //    {
+        //        await client.DownloadFileTaskAsync(text, $@"{folderPath}\{fileName}");
+        //        info.Percentage = 100;
+        //    }
+        //    catch (WebException ex)
+        //    {
+        //        if (ex.Status == WebExceptionStatus.RequestCanceled)
+        //        {
+        //            MessageBox.Show("Cancceled");
+        //        }
+        //        else
+        //        {
+        //            MessageBox.Show(ex.Message);
+        //        }
+        //    }
+
+        //}
         private async void DowloadFileAsync(string text)
         {
             WebClient client = new WebClient();
 
-            client.DownloadProgressChanged += Client_DownloadProgressChanged;
-            //client.DownloadFileCompleted += Client_DownloadFileCompleted;
-
-
             string fileName = Path.GetFileName(text);
             DownloadProcessesInfo info = new DownloadProcessesInfo(fileName);
+            info.Client = client;
             model.AddProcess(info);
 
-            await client.DownloadFileTaskAsync(text, $@"{folderPath}\{fileName}");
-            info.Percentage = 100;
+            client.DownloadProgressChanged += (s, e) =>
+            {
+                info.Percentage = e.ProgressPercentage;
+            };
 
+            client.DownloadFileCompleted += (s, e) =>
+            {
+                if (e.Cancelled)
+                {
+                    info.Percentage = 0;
+                    MessageBox.Show("Canceled");
+                    return;
+                }
+
+
+                info.Percentage = 100;
+                MessageBox.Show("Completed!");
+            };
+
+            try
+            {
+                await client.DownloadFileTaskAsync(text, $@"{folderPath}\{fileName}");
+            }
+            catch (Exception ex)
+            {
+                
+            }
         }
 
 
-        private void Client_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
-        {
-            model.Progress += e.ProgressPercentage;
-            //var fileName = Path.GetFileName(e.UserState.ToString());
-            //var info = model.Processes.FirstOrDefault(p => p.FileName == fileName);
-            //if (info != null)
-            //{
-            //    info.BytesPerSecond = e.BytesReceived;
-            //}
 
-        }
-        
         [AddINotifyPropertyChangedInterface]
         public class ViewModelDownload
         {
@@ -117,11 +163,42 @@ namespace _08_HttpClass
             public int PercentageInt => (int)Percentage;
             public double BytesPerSecond;
             public double MegaBytesPerSeconds => Math.Round(BytesPerSecond / 1024 / 1024);
-
+            public WebClient Client { get; set; }
             public DownloadProcessesInfo(string filename)
             {
                 FileName = filename;
             }
+        }
+
+        private void ListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            string path = "";
+            list.SelectedItems.ToString();
+            foreach(var item in list.SelectedItems)
+            {
+                var file = item as DownloadProcessesInfo;
+                MessageBox.Show(file.FileName);
+
+                path = Path.Combine(folderPath, file.FileName);
+            }
+            MessageBox.Show(path);
+            Process.Start("explorer.exe", path);
+
+        }
+    
+        private void StopBtn(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                var info = (DownloadProcessesInfo)list.SelectedItem;
+                if (info != null && info.Client != null)
+                {
+                    info.Client.CancelAsync();
+                }
+            }
+            catch (Exception ex)
+            { MessageBox.Show(ex.ToString()); }
+            
         }
     }
 }

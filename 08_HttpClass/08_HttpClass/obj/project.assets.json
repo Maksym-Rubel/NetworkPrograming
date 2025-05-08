@@ -145,11 +145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\08_HttpClass\\08_HttpClass\\08_HttpClass.csproj",
+      "projectUniqueName": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\08_HttpClass.csproj",
       "projectName": "08_HttpClass",
-      "projectPath": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\08_HttpClass\\08_HttpClass\\08_HttpClass.csproj",
+      "projectPath": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\08_HttpClass.csproj",
       "packagesPath": "C:\\Users\\Maksym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\08_HttpClass\\08_HttpClass\\obj\\",
+      "outputPath": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\08_HttpClass\\08_HttpClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
