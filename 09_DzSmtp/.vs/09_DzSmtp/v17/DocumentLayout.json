@@ -1,33 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\",
+  "WorkspaceRootPath": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainmailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainmailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainmailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainmailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\sendmessagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\sendmessagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\09_dzsmtp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\09_dzsmtp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\sendmessagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\sendmessagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networkprograming\\09_dzsmtp\\09_dzsmtp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\09_dzsmtp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\09_dzsmtp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|c:\\users\\maksym\\source\\repos\\networksprograming\\09_dzsmtp\\09_dzsmtp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B31A01-3FA0-40B4-B7D3-7D0585E64A49}|09_DzSmtp\\09_DzSmtp.csproj|solutionrelative:09_dzsmtp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +85,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "09_DzSmtp\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml",
               "RelativeToolTip": "09_DzSmtp\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-08T12:50:19.899Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginPage.xaml.cs",
+              "RelativeToolTip": "09_DzSmtp\\LoginPage.xaml.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAUwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:33:10.041Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginData.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\LoginData.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginData.cs",
+              "RelativeToolTip": "09_DzSmtp\\LoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:11:48.129Z",
               "EditorCaption": ""
             },
             {
@@ -63,36 +129,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "09_DzSmtp",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
-              "RelativeDocumentMoniker": "09_DzSmtp\\09_DzSmtp.csproj",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
-              "RelativeToolTip": "09_DzSmtp\\09_DzSmtp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T14:06:19.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "09_DzSmtp\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginWindow.xaml.cs",
               "RelativeToolTip": "09_DzSmtp\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAD4v0kAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAEsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T13:40:58.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainMailPage.xaml.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainMailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainMailPage.xaml.cs",
+              "RelativeToolTip": "09_DzSmtp\\MainMailPage.xaml.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAgwMEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:32:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "09_DzSmtp\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\LoginPage.xaml",
+              "RelativeToolTip": "09_DzSmtp\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T16:05:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainMailPage.xaml",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainMailPage.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainMailPage.xaml",
+              "RelativeToolTip": "09_DzSmtp\\MainMailPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T16:26:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainPage.xaml",
+              "RelativeToolTip": "09_DzSmtp\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T16:17:06.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainPage.xaml.cs",
+              "RelativeToolTip": "09_DzSmtp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA4wCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:17:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SendMessagePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\SendMessagePage.xaml.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\SendMessagePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\SendMessagePage.xaml.cs",
+              "RelativeToolTip": "09_DzSmtp\\SendMessagePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:50:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "09_DzSmtp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwJoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "09_DzSmtp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml",
+              "RelativeToolTip": "09_DzSmtp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:37:36.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendMessagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\SendMessagePage.xaml",
+              "RelativeDocumentMoniker": "09_DzSmtp\\SendMessagePage.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\SendMessagePage.xaml",
+              "RelativeToolTip": "09_DzSmtp\\SendMessagePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T17:12:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcUAAAAAAAAAAAewMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-10T06:18:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "09_DzSmtp",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
+              "RelativeDocumentMoniker": "09_DzSmtp\\09_DzSmtp.csproj",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
+              "RelativeToolTip": "09_DzSmtp\\09_DzSmtp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T14:06:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml",
               "RelativeDocumentMoniker": "09_DzSmtp\\App.xaml",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml",
               "RelativeToolTip": "09_DzSmtp\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-08T12:49:17.913Z",
@@ -100,40 +285,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml.cs",
               "RelativeDocumentMoniker": "09_DzSmtp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\App.xaml.cs",
               "RelativeToolTip": "09_DzSmtp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T12:49:15.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "09_DzSmtp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml",
-              "RelativeToolTip": "09_DzSmtp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-08T06:37:36.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "09_DzSmtp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "09_DzSmtp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAWwCAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T06:37:33.656Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

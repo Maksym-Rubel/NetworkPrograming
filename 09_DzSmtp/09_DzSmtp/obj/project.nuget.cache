@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "W3Ako4S/nA4=",
+  "dgSpecHash": "eajZAZAmbt8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maksym\\source\\repos\\NetworkPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
+  "projectFilePath": "C:\\Users\\Maksym\\source\\repos\\NetworksPrograming\\09_DzSmtp\\09_DzSmtp\\09_DzSmtp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Maksym\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Maksym\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\mailkit\\4.12.0\\mailkit.4.12.0.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\mimekit\\4.12.0\\mimekit.4.12.0.nupkg.sha512",
     "C:\\Users\\Maksym\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\system.formats.asn1\\8.0.2\\system.formats.asn1.8.0.2.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "C:\\Users\\Maksym\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
     "C:\\Users\\Maksym\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
   ],

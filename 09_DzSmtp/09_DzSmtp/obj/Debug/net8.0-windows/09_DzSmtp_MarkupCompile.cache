@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Maksym\source\repos\NetworkPrograming\09_DzSmtp\09_DzSmtp\obj\Debug\net8.0-windows\
+C:\Users\Maksym\source\repos\NetworksPrograming\09_DzSmtp\09_DzSmtp\obj\Debug\net8.0-windows\
 _09_DzSmtp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Maksym\source\repos\NetworkPrograming\09_DzSmtp\09_DzSmtp\App.xaml
-2-216653475
+C:\Users\Maksym\source\repos\NetworksPrograming\09_DzSmtp\09_DzSmtp\App.xaml
+6-1268102870
 
-5761720096
-2011803283979
-LoginWindow.xaml;MainWindow.xaml;
+101721877818
+2041043611129
+LoginPage.xaml;LoginWindow.xaml;MainMailPage.xaml;MainPage.xaml;MainWindow.xaml;SendMessagePage.xaml;
 
 False
 

@@ -130,7 +130,7 @@
             <Button.Effect>
                 <DropShadowEffect Direction="50" BlurRadius="36" ShadowDepth="0" Opacity="0.5"/>
             </Button.Effect> Log in</Button>
-
+       
 
         <TextBlock Grid.Row="1" FontSize="17" FontWeight="Medium" FontFamily="Helvetica" Width="400" Margin="0 0 0 0">
             <Run Text="Email" Foreground="Black"/>

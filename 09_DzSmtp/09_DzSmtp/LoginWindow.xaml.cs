@@ -69,12 +69,29 @@ namespace _09_DzSmtp
 
         private void LoginBtn(object sender, RoutedEventArgs e)
         {
-            if (PassTxr.Text != "" && EmailTxt.Text != "")
-            {
-                 MainWindow mainwindow = new MainWindow(EmailTxt.Text, PassTxr.Text);
-                 mainwindow.Show();
-                 this.Close();
-            }
+
+            //using (var client = new ImapClient())
+            //{
+            //    await client.ConnectAsync("imap.gmail.com", 993, MailKit.Security.SecureSocketOptions.SslOnConnect);
+            //    if(await client.AuthenticateAsync(username, password))
+            //    { 
+            //    }
+
+                
+
+
+
+
+
+            //}
+            //if (PassTxr.Text != "" && EmailTxt.Text != "")
+            //{
+                //MainWindow mainwindow = new MainWindow(EmailTxt.Text, PassTxr.Text);
+                //mainwindow.Show();
+                //this.Close();
+                //var main = (MainWindow)Application.Current.MainWindow;
+                //main.SetUserContent(new Dashbord());
+            //}
         }
     }
 }
